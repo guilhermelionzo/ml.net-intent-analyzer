@@ -1,6 +1,6 @@
 ﻿using Microsoft.ML.Runtime.Api;
 
-namespace IntentAnalysis
+namespace IntentAnalysis.Domain.ValueObjects
 {
     public class IntentData
     {

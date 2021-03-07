@@ -1,0 +1,7 @@
+﻿text	intent
+Eu gostaria de falar com um atendente	atendente
+Eu gostaria de fazer um pedido	encomenda
+Atendente	atendente
+Encomenda	encomenda
+Preciso trocar meu produto	atendente
+quero comprar uma um produto	encomenda
