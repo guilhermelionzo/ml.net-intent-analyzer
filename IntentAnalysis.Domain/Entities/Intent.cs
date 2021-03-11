@@ -24,7 +24,7 @@ namespace IntentAnalysis.Domain.Entities
             return model;
         }
 
-        public LearningPipeline GetPipeline()
+        private static LearningPipeline GetPipeline()
         {
             var pipeline = new LearningPipeline();
             pipeline.Add(new TextLoader<IntentData>(dataPath, separator: "tab"));
