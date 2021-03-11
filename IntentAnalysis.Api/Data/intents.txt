@@ -6,3 +6,5 @@ Encomenda	encomenda
 Preciso trocar meu produto	atendente
 Meu produto não chegou	encomenda
 Quanto custa o produto	encomenda
+quero tirar uma duvida	atendente
+Duvidas	atendente
